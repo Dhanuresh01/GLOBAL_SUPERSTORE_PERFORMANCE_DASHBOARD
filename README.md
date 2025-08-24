@@ -64,13 +64,13 @@ The dashboard is structured into **three distinct pages**, each designed to answ
 
 ## 🖼️ Dashboard Screenshots
 - **Page 1: Executive Summary**  
-  ![Executive Summary Screenshot](./images/Executive%20summary.PNG)  
+  ![Executive Summary Screenshot](Executive%20summary.PNG)  
 
 - **Page 2: Product & Category Analysis**  
-  ![Product Analysis Screenshot](./images/product%20analysis.PNG)  
+  ![Product Analysis Screenshot](product%20analysis.PNG)  
 
 - **Page 3: Customer & Operational Insights**  
-  ![Customer Insights Screenshot](./images/Customer%20analysis.PNG)  
+  ![Customer Insights Screenshot](Customer%20analysis.PNG)  
 
 ---
 
